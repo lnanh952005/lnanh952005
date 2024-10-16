@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Le Nhat Anh! I'm Le Nhat Anh!</h1>
+<h1 align="center">👋 Hello, I'm Le Nhat Anh!</h1>
 <h3 align="center">I'm a passionate second-year student with a focus on software development, specifically backend development with Java. My interests span across algorithms, data structures, and exploring the applications of AI and Machine Learning.</h3>
 
 - 🛠️ Technical Skills **Languages: C++, Java Web Development: HTML, CSS, JavaScript and Backend: Spring Boot, Node.js**
