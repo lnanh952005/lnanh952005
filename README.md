@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Le Nhat Anh! I'm Le Nhat Anh!</h1>
+<h1 align="center">👋 Hello, I'm Le Nhat Anh!</h1>
 <h3 align="center">I'm a passionate second-year student with a focus on software development, specifically backend development with Java. My interests span across algorithms, data structures, and exploring the applications of Web service and Mobile...</h3>
 
 - 🔭 I’m currently studying at **Can Tho University**
